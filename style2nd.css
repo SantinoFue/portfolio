@@ -1,0 +1,44 @@
+body {
+    background-color: #FEFBEA;
+    color: #023020;
+}
+
+ h1 {
+     font-size: 45px;
+     font-family: 'Playfair Display';
+     margin-left: 5%;
+ }
+
+ ul {
+    list-style-type: none;
+    font-family: 'Playfair Display';
+    background-color: #023020;
+    font-size: 45px;
+    margin: 0;
+    padding: 0;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+img{
+margin-left: 5%;
+width: 600px;
+}
+
+li {
+    display: inline;
+}
+
+ a {
+    color: #FEFBEA;
+ }
+
+ a:hover {
+     color: #67001a;
+ }
+
+ p {
+     font-size: 20px;
+     margin-left: 5%;
+     margin-right: 5%;
+ }

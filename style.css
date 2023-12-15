@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    background-color: #FEFBEA;
+    color: #023020;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+img {
+    max-width: 32vw;
+    padding-left: 75px;
+    padding-top: 50px;
+}
+
+.text {
+    text-align: center;
+    align-items: center;
+    padding-left: 220px;
+    font-size: 40px;
+}
+
+ h1 {
+     font-size: 60px;
+     font-family: 'Playfair Display';
+ }
+
+ ul {
+    list-style-type: none;
+    font-family: 'Playfair Display';
+}
+
+ a {
+    color: #023020;
+ }
+
+ a:hover {
+     color: #67001a;
+ }
